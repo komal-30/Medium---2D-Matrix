@@ -1,8 +1,3 @@
-#Brute Force
-
-
-
-
 #Ideal
 def spiral_matrix(mat):
     ans=[]
@@ -42,4 +37,4 @@ def spiral_matrix(mat):
 
 
 
-#Optimal
+
